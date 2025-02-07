@@ -21,7 +21,7 @@ In this "choose your own adventure" template portfolio, we have a [Blazor](https
 
 1. Click the **Use this Template** button
 
-   [![Use this Template](/images/template-button.svg)](https://github.com/education/codespaces-project-template-dotnet/generate)
+   [![Use this Template](/images/template-button.svg)](https://github.com/github-education-resources/codespaces-project-template-dotnet/generate)
 
 1. Select the repository owner (e.g. your GitHub account)
 1. Enter a unique name for your new repository
@@ -60,7 +60,7 @@ The repo contains the following:
 
 This portfolio site project is filled with sample data so that you can immediately open Codespaces, see it running, and deploy at any point.
 
-Your development environment is all set for you to start. Based on our [.NET Codespaces Template](https://github.com/education/codespaces-teaching-template-dotnet), here is what's already setup and ready for you to use:
+Your development environment is all set for you to start. Based on our [.NET Codespaces Template](https://github.com/github-education-resources/codespaces-project-template-dotnet), here is what's already setup and ready for you to use:
 
 - Simple [Blazor WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?WT.mc_id=dotnet-82024-juyoo) application with components for each section of the portfolio site
 - [SWA CLI](https://azure.github.io/static-web-apps-cli/) in place to build your site when deploying
@@ -68,7 +68,7 @@ Your development environment is all set for you to start. Based on our [.NET Cod
 
 ### Create your portfolio
 
-1. Create a repository from this template. Use this [create repo link](https://github.com/education/codespaces-teaching-template-dotnet/generate). Select the repository owner, provide a name, a description if you'd like and if you'd like the new repository to be public or private.
+1. Create a repository from this template. Use this [create repo link](https://github.com/github-education-resources/codespaces-project-template-dotnet/generate). Select the repository owner, provide a name, a description if you'd like and if you'd like the new repository to be public or private.
 1. Navigate to the main page of the newly created repository.
 1. Under the repository name, use the Code drop-down menu, and in the Codespaces tab, select "Create codespace on main".
 
